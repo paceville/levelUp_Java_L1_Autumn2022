@@ -1,4 +1,4 @@
-package homework1.task1;
+package org.levelup.homework1.task1;
 
 import java.util.Scanner;
 
