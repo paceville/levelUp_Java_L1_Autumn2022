@@ -8,7 +8,7 @@ public class Task6 {
         while (true) {
             number += 3;
 
-            if (number / 1000 == 10) {
+            if (number / 10000 == 1) {
                 break;
             }
 
