@@ -5,13 +5,8 @@ public class Task6 {
 
         int number = 997;
 
-        while (true) {
+        while ((number + 3) <= 9999) {
             number += 3;
-
-            if (number / 10000 == 1) {
-                break;
-            }
-
             System.out.print(number + " ");
         }
     }
